@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">YML</string>
+    <string name="home">Home</string>
+    <string name="action_search">Search</string>
+    <string name="username">User Name</string>
+    <string name="followers">FOLLOWERS</string>
+    <string name="following">FOLLOWING</string>
+    <string name="repositories">REPOSITORIES</string>
+    <string name="noFollowers">No followers found for this username</string>
+    <string name="error">Error occoured while communicating to the server</string>
+</resources>
